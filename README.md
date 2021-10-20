@@ -14,4 +14,4 @@ O Job irá gerar uma pasta no bucket chamada resultado. Dentro dessa pasta o arq
 * Criar um arquivo chamado resultado.txt. Dentro desse arquivo, colocar as 10 palavras que mais são usadas no livro, de acordo com o resultado do Job.
 * Inserir os arquivo resultado.txt e part-00000 no repositório e informar na plataforma da Digital Innovation One.
 
-O desafio faz parte do curso Banco Carrefour Data Engineer na plataforma de educação Digital Innovation One.
+O desafio faz parte do Bootcamp Banco Carrefour Data Engineer na plataforma de educação Digital Innovation One.
